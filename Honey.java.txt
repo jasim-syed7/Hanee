@@ -1,0 +1,6 @@
+#include<stdio.h>
+#include conio.h
+sdknfokxdpl[c;v]
+		{int=a}
+		
+Rev-0		
